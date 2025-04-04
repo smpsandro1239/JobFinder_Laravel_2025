@@ -1,7 +1,3 @@
-Claro! Vou reescrever o `README.md` utilizando português de Portugal, evitando termos específicos do português brasileiro e adotando convenções mais comum em Portugal. Aqui está a versão ajustada:
-
----
-
 # JobFinder_Laravel_2025
 
 Uma aplicação de listagem de vagas de emprego desenvolvida com Laravel em 2025. Este projecto é baseado no curso "Laravel From Scratch 2022" de Brad Traversy e foi adaptado para as minhas necessidades de aprendizagem e desenvolvimento.
